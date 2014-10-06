@@ -1,0 +1,148 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2, "LOCATION": "ANDREWS AVE & NE 3RD ST", "DIRECTION": "SE CORNER", "NUMBER": "4", "TYPE": "GR - HOOP" }, "geometry": { "type": "Point", "coordinates": [ -77.052958317999156, 5.884579249159097 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 4, "LOCATION": "BETWEEN SR 1 & SE 8TH AVE ON LAS OLAS BLVD", "DIRECTION": "FRONT OF CHEESE CAKE FACTORY", "NUMBER": "NO SIGNAL", "TYPE": "??????" }, "geometry": { "type": "Point", "coordinates": [ -77.033345526059961, 5.865334965659238 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 8, "LOCATION": "1517 E LAS OLAS BLVD", "DIRECTION": "LAS OLAS BLVD - 7-11 STORE", "NUMBER": "NO SIGNAL", "TYPE": "HORSESHOE" }, "geometry": { "type": "Point", "coordinates": [ -77.00646373667503, 5.86742527466223 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 13, "LOCATION": "1601 E LAS OLAS BLVD", "DIRECTION": "SW CORNER", "NUMBER": "1", "TYPE": "HORSESHOE" }, "geometry": { "type": "Point", "coordinates": [ -76.945610884040832, 5.865978449017844 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 14, "LOCATION": "INTERCOASTAL PARKING LOT -- WATER TAXI STOP", "DIRECTION": "NW CORNER", "NUMBER": "16", "TYPE": "??????" }, "geometry": { "type": "Point", "coordinates": [ -76.947568878644347, 5.873979560628492 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 18, "LOCATION": "SW 2ND ST & SW 1ST AVE", "DIRECTION": "NE CORNER", "NUMBER": "3", "TYPE": "??????" }, "geometry": { "type": "Point", "coordinates": [ -77.057025118467337, 5.869658644809121 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 19, "LOCATION": "ANDREWS AVE & NE 2RD ST", "DIRECTION": "SE CORNER PARKING LOT", "NUMBER": "5", "TYPE": "??????" }, "geometry": { "type": "Point", "coordinates": [ -77.052837246359474, 5.881504291885933 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 20, "LOCATION": "290 NE 3 Ave", "DIRECTION": null, "NUMBER": "1", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -77.043702720417272, 5.884838157843511 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 29, "LOCATION": "LAS OLAS BLVD & SE 1ST AVE", "DIRECTION": null, "NUMBER": "NO SIGNAL", "TYPE": "HOOP[" }, "geometry": { "type": "Point", "coordinates": [ -77.050187381351321, 5.865548430909308 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 33, "LOCATION": "545 S A1A", "DIRECTION": null, "NUMBER": "1", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.941332565476017, 5.857134977065068 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 46, "LOCATION": "SE 2ND ST & SE 1ST AVE", "DIRECTION": "POD", "NUMBER": "NO SIGNAL", "TYPE": "POD" }, "geometry": { "type": "Point", "coordinates": [ -77.050403582614379, 5.870913188927533 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 47, "LOCATION": "SE 1ST ST & SE 1ST AVE", "DIRECTION": "POD", "NUMBER": "NO SIGNAL", "TYPE": "POD" }, "geometry": { "type": "Point", "coordinates": [ -77.050093644884114, 5.873529120835649 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 48, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "WAVE" }, "geometry": { "type": "Point", "coordinates": [ -76.93964623130779, 5.845714976610572 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 49, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "WAVE" }, "geometry": { "type": "Point", "coordinates": [ -76.939659420143514, 5.845594936078243 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 50, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.938625844901011, 5.849453752530118 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 51, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.942374786715732, 5.83318663239559 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 52, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.940275074212792, 5.841840960596194 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 53, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.938629485159026, 5.852827897860104 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 54, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.939062355649071, 5.856360616002657 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 55, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.938432357897526, 5.857083003520901 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 56, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.938097922852336, 5.865546305030392 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 57, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.938797578139386, 5.865547318476449 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 58, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.93693452331739, 5.87508217282283 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 59, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.936074275032183, 5.881523688792964 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 60, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.934935444315443, 5.891132845158156 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 61, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "WAVE" }, "geometry": { "type": "Point", "coordinates": [ -76.934736141329793, 5.894211771646051 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 62, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "WAVE" }, "geometry": { "type": "Point", "coordinates": [ -76.934678675196579, 5.895729609038802 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 63, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "WAVE" }, "geometry": { "type": "Point", "coordinates": [ -76.934572806885811, 5.897660394752938 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 64, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "WAVE" }, "geometry": { "type": "Point", "coordinates": [ -76.934471461071738, 5.899162260786577 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 65, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "WAVE" }, "geometry": { "type": "Point", "coordinates": [ -76.934350477281015, 5.904598397701368 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 66, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.934299364567067, 5.9054009078092 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 67, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "WAVE" }, "geometry": { "type": "Point", "coordinates": [ -76.934316939267291, 5.906071229863178 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 68, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "WAVE" }, "geometry": { "type": "Point", "coordinates": [ -76.93415951831102, 5.911495994684139 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 69, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.934092546616299, 5.912236280398551 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 70, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "WAVE" }, "geometry": { "type": "Point", "coordinates": [ -76.934112580411565, 5.913064831682015 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 71, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "BIKE" }, "geometry": { "type": "Point", "coordinates": [ -76.933608544443715, 5.92327318642687 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 72, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HORSE HITCH" }, "geometry": { "type": "Point", "coordinates": [ -76.927467351675205, 5.975530699002892 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 73, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP" }, "geometry": { "type": "Point", "coordinates": [ -76.934365624542082, 5.924860153054407 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 74, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HORSE" }, "geometry": { "type": "Point", "coordinates": [ -76.93622066812182, 5.924631515170121 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 75, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HORSE" }, "geometry": { "type": "Point", "coordinates": [ -76.93622719310541, 5.924505645670807 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 76, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HORSE" }, "geometry": { "type": "Point", "coordinates": [ -76.936216582807916, 5.924435179421649 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 77, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HORSE" }, "geometry": { "type": "Point", "coordinates": [ -76.936370643407543, 5.923993046092984 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 78, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP" }, "geometry": { "type": "Point", "coordinates": [ -76.935136399790053, 5.903741429747183 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 79, "LOCATION": "MERLE FOGG PARK", "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP GYR" }, "geometry": { "type": "Point", "coordinates": [ -76.958180371082292, 5.868871130785966 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 80, "LOCATION": "MERLE FOGG PARK", "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP" }, "geometry": { "type": "Point", "coordinates": [ -76.958775657143804, 5.867787654424644 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 81, "LOCATION": "MERLE FOGG PARK", "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP" }, "geometry": { "type": "Point", "coordinates": [ -76.958944529477364, 5.867871786975487 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 82, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "FUTURE POD" }, "geometry": { "type": "Point", "coordinates": [ -77.025388785817526, 5.865844347043393 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 83, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HORSE" }, "geometry": { "type": "Point", "coordinates": [ -77.011933981706051, 5.866286965652702 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 84, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP" }, "geometry": { "type": "Point", "coordinates": [ -77.009522429849639, 5.866103928587303 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 85, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP" }, "geometry": { "type": "Point", "coordinates": [ -77.00941890808852, 5.865934570930004 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 86, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "GYR" }, "geometry": { "type": "Point", "coordinates": [ -77.01313569891785, 5.866818943565577 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 87, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "POD - 4 GYR" }, "geometry": { "type": "Point", "coordinates": [ -77.013443996488249, 5.867079565867736 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 88, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "GYR" }, "geometry": { "type": "Point", "coordinates": [ -77.061087040557837, 5.870565739846955 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 89, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "GYR ON CORNER" }, "geometry": { "type": "Point", "coordinates": [ -77.061709374908077, 5.870840135187535 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 90, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP" }, "geometry": { "type": "Point", "coordinates": [ -77.064002663661896, 5.870517044792306 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 91, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP" }, "geometry": { "type": "Point", "coordinates": [ -77.066144043106775, 5.870504928425217 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 92, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP" }, "geometry": { "type": "Point", "coordinates": [ -77.066070944583032, 5.870504019729047 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 93, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP" }, "geometry": { "type": "Point", "coordinates": [ -77.066234472649583, 5.870494431739231 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 94, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP" }, "geometry": { "type": "Point", "coordinates": [ -77.067070672696829, 5.870449656802776 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 95, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP" }, "geometry": { "type": "Point", "coordinates": [ -77.066989310185036, 5.870454108799309 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 96, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HOOP" }, "geometry": { "type": "Point", "coordinates": [ -77.067130464755536, 5.870460702167783 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 97, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "GYR" }, "geometry": { "type": "Point", "coordinates": [ -77.067741453307576, 5.869832302616834 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 98, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "GYR" }, "geometry": { "type": "Point", "coordinates": [ -77.064918075526606, 5.869856539240668 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 99, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "GYR" }, "geometry": { "type": "Point", "coordinates": [ -77.061829489028966, 5.870028525401504 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 100, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "GYR" }, "geometry": { "type": "Point", "coordinates": [ -77.061043330784344, 5.870634305613827 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 101, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HORSE" }, "geometry": { "type": "Point", "coordinates": [ -77.059781571358911, 5.869867309291181 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 102, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HORSE" }, "geometry": { "type": "Point", "coordinates": [ -77.059698029938517, 5.869897455626742 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 103, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HORSE" }, "geometry": { "type": "Point", "coordinates": [ -77.059715908344472, 5.869701465745048 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 104, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "HORSE" }, "geometry": { "type": "Point", "coordinates": [ -77.059648422142502, 5.8696720602694 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 105, "LOCATION": null, "DIRECTION": null, "NUMBER": "GPS", "TYPE": "GYR 26" }, "geometry": { "type": "Point", "coordinates": [ -77.056491922588663, 5.870006080238936 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 106, "LOCATION": "LAS OLAS BLVD & SE 1ST AVE", "DIRECTION": null, "NUMBER": "NO SIGNAL", "TYPE": "HOOP[" }, "geometry": { "type": "Point", "coordinates": [ -77.050186311113208, 5.865477912748604 ] } }
+
+]
+}
