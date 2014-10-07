@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<title>Fort Lauderdale Bike Racks - Code For Fort Lauderdale</title>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>aboutPlace Vibe App</title>
+    <style>
+        #map
+        {
+            width: 100% !important;
+            height:100% !important;
+            display: block;
+            min-height: 800px;
+        }
+
+    </style>
+</head>
+
+
+<body ng-app="mainApp" ng-controller="mainCtrl">
+<div id="map"></div>
+</body>
+
+<!--Angularjs 1.2.25-->
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
+<!--Google Maps API -->
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+
+<script>
+
+    //create the mainApp
+    var app = angular.module('mainApp',[]);
+
+
+    //Get the rack locations from the file.
+    app.factory('rackService',function($http,$q){
+        return{
+            getMarkers: function (lat, lng) {
+                var defered = $q.defer();
+                $http.get('racks.geojson')
+                        .success(function(response){
+                                //console.log(response)
+                                coords = [];
+                                //coordinates: response.features[0].geometry.coordinates
+                                for(i = 0; i < response.features.length; i++){
+                                    coords.push(response.features[i])
+                                    //console.log(response.features[i])
+                                }
+                                //console.log(coords);
+                                defered.resolve({coords:coords});
+
+
+                        })
+                return defered.promise
+
+            }
+
+        }
+
+    });
+
+    //create the controller
+    app.controller('mainCtrl',['$scope','rackService',function($scope,rackService){
+
+
+        var bounds;
+        var mapOptions ={
+            zoom:13,
+            center: new google.maps.LatLng(26.1224386, -80.1373174),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+
+
+        map = new google.maps.Map(document.getElementById('map'),mapOptions);
+
+
+
+
+        rackService.getMarkers().then(function(data){
+            console.log(data.coords)
+            for(i = 0; i < data.coords.length; i++){
+                console.log(data.coords[i])
+                markerLoc = new google.maps.LatLng(data.coords[i].geometry.coordinates[1],data.coords[i].geometry.coordinates[0])
+                var marker = new google.maps.Marker({
+                    map: map,
+                    position: markerLoc
+                })
+
+            }
+        })
+
+
+
+
+
+
+    }])
+</script>
+
+</html>
